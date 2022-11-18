@@ -36,5 +36,5 @@ Optimization included the following:
 1. Removing an additional column (`STATUS`) and increasing the hidden layers as well as doing 50 epochs - since 50 epochs performed better than 100, this was used. However, we did not see significant increase.
 
 ***
-# 3. Sumamry
+# 3. Summary
 In summary, further analysis would be needed to achieve higher accuracly results. It might be beneficial to perform an analysis that reduces the number of features or attempts to determine which features are the most important and run the model based on those features. There may be too much data that is irrelevant causing the accuracy and error to not be sufficient for this problem when doing a neural network model.
